@@ -19,4 +19,4 @@ const a = 5;
 //   });
 
 console.log(Math.pow(a, 2));
-console.log(99);
+console.log(999);
